@@ -72,7 +72,7 @@
             <h3>Контакты</h3>
             <ul>
                 <li>Email: tatanalukovnikova4@gmail.com</li>
-                <li>Телефон: +789149000207</li>
+                <li>Телефон: 89149000207</li>
                 <li>GitHub: <a href="https://github.com/" target="_blank">перейти</a></li>
             </ul>
         </section>
